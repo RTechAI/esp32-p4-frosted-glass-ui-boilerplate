@@ -1,3 +1,4 @@
+<img width="1267" height="742" alt="Splash frosted glass" src="https://github.com/user-attachments/assets/1bb98ab2-4fbb-431c-b4f7-543484342e30" />
 # ForgeUI Source Available License
 
 **Version 1.0**  
